@@ -1,0 +1,18 @@
+{
+    "name": "houyimin/yii2-feishu",
+    "description": "yii2飞书机器人",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "houyimin",
+            "homepage": "https://houyimin.github.io/"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "houyimin\\feishu\\": "src/"
+        }
+    }
+}

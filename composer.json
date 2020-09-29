@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "yiisoft/yii2": "^2.0.38",
+        "yiisoft/yii2": "^2.0.15",
         "guzzlehttp/guzzle": "^6.3"
     },
     "minimum-stability": "dev",
